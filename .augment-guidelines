@@ -1,0 +1,25 @@
+Always use the latest version of software.
+Follow PEP 8 style guide.
+Write tests for all new code.
+Document all new code.
+Use type hints for all new code.
+Use logging for all new code.
+Use exception handling for all new code.
+Use dependency injection for all new code.
+Use async/await for all new code.
+Use context managers for all new code.
+Use dataclasses for all new code.
+Use factory methods for all new code.
+Use properties for all new code.
+Use constants for all new code.
+Use enums for all new code.
+Use abstract base classes for all new code.
+Use interfaces for all new code.
+Use mixins for all new code.
+Use composition over inheritance for all new code.
+Use SOLID principles for all new code.
+Use DRY principle for all new code.
+Use KISS principle for all new code.
+Use YAGNI principle for all new code.
+Use TDD for all new code.
+Dockerize.

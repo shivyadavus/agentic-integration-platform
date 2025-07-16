@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(npm run:*)",
+      "Bash(npm install:*)",
+      "Bash(docker-compose up:*)",
+      "Bash(node:*)",
+      "Bash(npx tsx:*)",
+      "Bash(curl:*)",
+      "Bash(timeout:*)",
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "Bash(sed:*)",
+      "Bash(pkill:*)",
+      "Bash(rm:*)",
+      "Bash(npx tsc:*)",
+      "Bash(docker-compose:*)",
+      "Bash(poetry run alembic:*)",
+      "Bash(make:*)",
+      "Bash(source:*)",
+      "Bash(npx next build:*)",
+      "Bash(ls:*)",
+      "Bash(mv:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(./node_modules/.bin/tailwindcss:*)",
+      "WebFetch(domain:tailwindcss.com)",
+      "WebFetch(domain:ui.shadcn.com)",
+      "Bash(npx:*)",
+      "Bash(find:*)"
+    ],
+    "deny": []
+  }
+}
